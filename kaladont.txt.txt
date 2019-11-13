@@ -4,3 +4,4 @@ neka glupost
 Rijec
 eclipse
 selo
+lopta
