@@ -5,3 +5,4 @@ Rijec
 eclipse
 selo
 lopta
+tanir
